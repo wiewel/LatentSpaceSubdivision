@@ -1,0 +1,6 @@
+[submodule "LatentSpacePhysics"]
+	path = LatentSpacePhysics
+	url = https://github.com/wiewel/LatentSpacePhysics.git
+[submodule "Mantaflow"]
+	path = Mantaflow
+	url = https://github.com/tum-pbs/mantaflow.git
