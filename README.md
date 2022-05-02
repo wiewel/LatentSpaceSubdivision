@@ -23,6 +23,7 @@ We propose an end-to-end trained neural network architecture to robustly predict
 
 - [Project Website](https://ge.in.tum.de/publications/2020-lssubdiv-wiewel/)
 - [Paper, arXiv:2003.08723](https://arxiv.org/abs/2003.08723)
+- [Paper, published version, CGF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.14097)
 
 ## Prerequisites
 
